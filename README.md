@@ -38,7 +38,7 @@ A desktop cryptography application built with Python and Tkinter.
 
 ## 🎥 Project Demo
 
-[![Demo](https://img.icons8.com/color/480/video.png)](https://drive.google.com/file/d/FILE_ID/view)
+[![Demo](https://img.icons8.com/color/480/video.png)](https://drive.google.com/drive/u/2/folders/1Q2O9OTHa8sXgMwjolaKLGT3CJWB95yR7)
 
 
 ## Installation
